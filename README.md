@@ -69,23 +69,6 @@ streamlit run app.py
 This will open the web app in your browser.
 
 ---
-## 📂 File Upload Instructions
-### 📜 Restaurant Menu CSV Format Example
-The uploaded CSV file should contain the following columns:
-```csv
-dish_name,price,category,cuisine,preparation_time,availability,ratings
-Burger,5.99,Fast Food,American,10 min,Available,4.5
-Pizza,8.99,Fast Food,Italian,15 min,Available,4.7
-```
-
-### 📅 Clinic Appointment CSV Format Example
-The uploaded CSV file should contain the following columns:
-```csv
-doctor_name,specialization,available_dates,available_times,consultation_fee
-Dr. Smith,Cardiologist,"2025-03-22,2025-03-23","10:00 AM,11:00 AM",100
-Dr. Jane,Orthopedic,"2025-03-24,2025-03-25","02:00 PM,03:00 PM",120
-```
-
 ---
 ## 🍲 Placing an Order (Restaurant Chatbot)
 1. Go to the **Place Order** section.
