@@ -81,7 +81,7 @@ This will open the web app in your browser.
 ### 📽️ Working Demo
 Watch the working demo video of the restaurant order process:
 
-[![Watch the Video](Video)](Order Generation.mp4)
+[![Watch the Video](Video)](https://drive.google.com/file/d/1t0bEkN4o1UPFn_f8o7upZ87wzOrLLg10/view?usp=sharing )
 
 ### 📚 Viewing Order Details in Database
 To view saved orders:
