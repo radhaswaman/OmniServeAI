@@ -2,10 +2,12 @@
 
 ## 📌 Overview
 **OmniSearch AI** is a Streamlit-based AI-powered chatbot application that provides two functionalities:
+
 1. **Restaurant Menu Chatbot**: Users can upload restaurant menus in CSV format, query dish availability, get recommendations, and place orders.
 2. **Clinic Appointment Generator**: Users can upload clinic schedules, check doctor availability, and book appointments using an AI-powered chatbot.
 
 ## 🚀 Features
+
 ### ✅ Restaurant Menu Chatbot
 - Upload restaurant menu in CSV format
 - AI-powered chatbot to answer menu-related queries
@@ -21,6 +23,7 @@
 - Retrieve saved appointments
 
 ## 🛠 Installation & Setup
+
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/your-username/restaurant-clinic-chatbot.git
@@ -69,12 +72,16 @@ streamlit run app.py
 This will open the web app in your browser.
 
 ---
----
 ## 🍲 Placing an Order (Restaurant Chatbot)
 1. Go to the **Place Order** section.
 2. Select dishes from the multi-select dropdown.
 3. Confirm your order after verifying availability.
 4. Order details are automatically saved to the SQLite database (`restaurant_orders.db`).
+
+### 📽️ Working Demo
+Watch the working demo video of the restaurant order process:
+
+[![Watch the Video](Video)](Order Generation.mp4)
 
 ### 📚 Viewing Order Details in Database
 To view saved orders:
@@ -87,8 +94,7 @@ SELECT * FROM orders;
 ```
 
 ### 📝 Generating Order Confirmation
-After confirming the order, the chatbot will generate an order summary.
-Optionally, download the confirmation receipt in PDF format.
+After confirming the order, the chatbot will generate an order summary. Optionally, download the confirmation receipt in PDF format.
 
 ---
 ## 🏥 Booking an Appointment (Clinic Chatbot)
