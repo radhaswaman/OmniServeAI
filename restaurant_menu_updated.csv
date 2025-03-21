@@ -1,0 +1,51 @@
+dish_name,category,price,description,availability,ratings,preparation_time,cuisine,vegetarian,gluten_free
+Veg Manchurian,Appetizer,152,Fried vegetable balls in a tangy sauce,Yes,4.5,43,Continental,Yes,No
+Butter Naan,Bread,27,"Soft, fluffy naan with butter",Yes,3.5,44,North Indian,No,Yes
+Gulab Jamun,Dessert,117,"Soft, spongy milk balls",Yes,4,12,Chinese,Yes,No
+Chole Bhature,Breakfast,154,Spiced chickpeas with fried bread,Yes,5,17,South Indian,Yes,Yes
+Veg Manchurian,Appetizer,140,Fried vegetable balls in a tangy sauce,Yes,4.4,17,South Indian,Yes,No
+Paneer Butter Masala,Main Course,253,Cottage cheese in tomato gravy,Yes,3.6,19,Continental,No,Yes
+Chicken Biryani,Main Course,290,Fragrant basmati rice with spices and chicken,Yes,3.9,13,North Indian,Yes,No
+Masala Dosa,Breakfast,196,South Indian crispy dosa,Yes,3.8,11,North Indian,No,No
+Butter Naan,Bread,37,"Soft, fluffy naan with butter",Yes,3.8,43,South Indian,Yes,Yes
+Tomato Soup,Soup,58,Creamy tomato soup with croutons,Yes,4.4,30,South Indian,Yes,No
+Chole Bhature,Breakfast,141,Spiced chickpeas with fried bread,Yes,4.4,17,North Indian,Yes,No
+Paneer Butter Masala,Main Course,253,Cottage cheese in tomato gravy,Yes,4,38,North Indian,No,Yes
+Gulab Jamun,Dessert,94,"Soft, spongy milk balls",Yes,4.4,42,North Indian,Yes,No
+Palak Paneer,Main Course,251,Cottage cheese cooked in spinach gravy,Yes,4.8,13,North Indian,Yes,No
+Gulab Jamun,Dessert,98,"Soft, spongy milk balls",Yes,4.1,21,Continental,Yes,No
+Tandoori Chicken,Main Course,334,Grilled chicken marinated in yogurt and spices,Yes,4.2,24,Continental,Yes,No
+Veg Manchurian,Appetizer,166,Fried vegetable balls in a tangy sauce,Yes,4,28,Italian,No,Yes
+Chicken Biryani,Main Course,282,Fragrant basmati rice with spices and chicken,Yes,4,40,South Indian,Yes,No
+Tomato Soup,Soup,86,Creamy tomato soup with croutons,Yes,3.7,32,Continental,Yes,No
+Fish Curry,Main Course,290,Spicy fish curry with coconut milk,Yes,3.7,37,South Indian,No,Yes
+Tandoori Chicken,Main Course,332,Grilled chicken marinated in yogurt and spices,Yes,3.9,18,Chinese,Yes,Yes
+Palak Paneer,Main Course,268,Cottage cheese cooked in spinach gravy,Yes,4.4,38,Chinese,Yes,Yes
+Chole Bhature,Breakfast,132,Spiced chickpeas with fried bread,Yes,4.2,24,Continental,Yes,No
+Samosa,Appetizer,31,Crispy fried pastry filled with spiced potatoes,Yes,4.3,37,Italian,No,Yes
+Chicken Biryani,Main Course,296,Fragrant basmati rice with spices and chicken,Yes,4.2,35,North Indian,Yes,No
+Tomato Soup,Soup,52,Creamy tomato soup with croutons,Yes,5,11,Continental,Yes,Yes
+Chole Bhature,Breakfast,150,Spiced chickpeas with fried bread,Yes,4.8,38,South Indian,Yes,Yes
+Samosa,Appetizer,68,Crispy fried pastry filled with spiced potatoes,Yes,4,24,Italian,Yes,No
+Rasmalai,Dessert,122,Soft paneer dumplings soaked in sweet milk,Yes,3.6,43,Continental,No,Yes
+Chicken Biryani,Main Course,294,Fragrant basmati rice with spices and chicken,Yes,4.3,12,Continental,Yes,Yes
+Palak Paneer,Main Course,260,Cottage cheese cooked in spinach gravy,Yes,4.5,12,North Indian,Yes,Yes
+Veg Manchurian,Appetizer,163,Fried vegetable balls in a tangy sauce,Yes,4.7,29,Chinese,Yes,No
+Paneer Butter Masala,Main Course,245,Cottage cheese in tomato gravy,Yes,3.7,43,North Indian,Yes,No
+Samosa,Appetizer,61,Crispy fried pastry filled with spiced potatoes,Yes,4.3,42,Italian,No,Yes
+Gulab Jamun,Dessert,101,"Soft, spongy milk balls",Yes,4.5,37,Italian,Yes,Yes
+Spring Roll,Appetizer,88,Crispy rolls stuffed with vegetables,Yes,3.7,21,Chinese,No,No
+Masala Dosa,Breakfast,197,South Indian crispy dosa,Yes,4,43,Continental,Yes,No
+Paneer Butter Masala,Main Course,254,Cottage cheese in tomato gravy,Yes,4.6,34,Italian,Yes,Yes
+Paneer Butter Masala,Main Course,254,Cottage cheese in tomato gravy,Yes,4.4,20,South Indian,No,No
+Tomato Soup,Soup,73,Creamy tomato soup with croutons,Yes,4.9,16,South Indian,Yes,Yes
+Samosa,Appetizer,34,Crispy fried pastry filled with spiced potatoes,Yes,4.1,16,South Indian,Yes,No
+Butter Naan,Bread,44,"Soft, fluffy naan with butter",Yes,4.9,17,Indian,Yes,Yes
+Samosa,Appetizer,54,Crispy fried pastry filled with spiced potatoes,Yes,3.8,32,Italian,No,No
+Palak Paneer,Main Course,260,Cottage cheese cooked in spinach gravy,Yes,4.1,20,North Indian,Yes,No
+Palak Paneer,Main Course,264,Cottage cheese cooked in spinach gravy,Yes,4.4,15,Continental,Yes,Yes
+Samosa,Appetizer,70,Crispy fried pastry filled with spiced potatoes,Yes,3.9,43,South Indian,No,Yes
+Palak Paneer,Main Course,255,Cottage cheese cooked in spinach gravy,Yes,3.9,38,Continental,Yes,No
+Fish Curry,Main Course,261,Spicy fish curry with coconut milk,Yes,3.8,13,Indian,Yes,No
+Mango Lassi,Drinks,77,Sweet and creamy yogurt drink,Yes,4.8,30,Indian,Yes,No
+Veg Manchurian,Appetizer,156,Fried vegetable balls in a tangy sauce,Yes,3.7,42,Indian,Yes,No
